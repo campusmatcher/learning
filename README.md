@@ -23,3 +23,5 @@ Our first week goals are listed below:
 - Friday's lesson
 - **Sunday 21:30** Everybody should come in time otherwise their names will be listed under the meeting information as late comings.
   - [ ] A file will be open for the meeting notes  
+#### Meeting Plan:
+- [ ] After learning the fundamentals of Android we should design our future path (we can use diagrams)
