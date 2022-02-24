@@ -9,7 +9,7 @@ Yavuz: I got an error while installing Intel HAXM. It takes 1 hour to solve this
     3. Apply the steps in this website https://www.poweronplatforms.com/enable-disable-hyper-v-windows-10-8/
 
 ## Mac
-
+    Placeholder
 
 ## Linux
     
