@@ -12,4 +12,6 @@ Yavuz: I got an error while installing Intel HAXM. It takes 1 hour to solve this
     Placeholder
 
 ## Linux
+    Placeholder
+    
     
